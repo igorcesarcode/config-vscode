@@ -1,6 +1,6 @@
 <h1>Configuração do VSCODE</h1>
 
-Segue a lista de Todas as Extenções que eu uso meu arquivo de configuração.
+Segue a lista de Todas as Extenções que eu uso, e minhas configuração.
 
 > ⚠️ Lembrando que para instalar as extenções você pode pesquisar na aba "extenções" dentro do vscode ou ir no final tem o código que instala todas de uma vez.
 
